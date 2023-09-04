@@ -46,7 +46,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/evobot), you may provide values from `config.json` as environment variables.
 
 ```shell
-docker run -e "TOKEN=<discord-token>" eritislami/evobot
+docker run -e "TOKEN=<MTE0ODI1OTM5Nzc4OTgxNDg5NA.Gz70bm.2dN9ufeuAKzh_8l6KmWM1m92XAtF1c6i_RJgZM>" eritislami/evobot
 ```
 
 ## 📝 Features & Commands
