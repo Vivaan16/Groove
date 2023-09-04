@@ -32,7 +32,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-  "TOKEN": "",
+  "TOKEN": "MTE0ODI1OTM5Nzc4OTgxNDg5NA.G64hgF.JK2gNkIH-_29qm_n2Pk5pOCzBSy7mG-EUgWQm0",
   "MAX_PLAYLIST_SIZE": 10,
   "PRUNING": false,
   "LOCALE": "en",
