@@ -10,7 +10,7 @@
 
 ## Requirements
 
-1. Discord Bot Token **[Guide](MTE0ODI1OTM5Nzc4OTgxNDg5NA.G64hgF.JK2gNkIH-_29qm_n2Pk5pOCzBSy7mG-EUgWQm0)**  
+1. Discord Bot Token **[Guide](MTE1NjY1MDQ1NTY4Njk5MTk1Ng.GsSGBZ.YBitmGxqVk-jZEBtJ_CwjHUdzsWGOp129gzzJg)**  
    1.1. Enable 'Message Content Intent' in Discord Developer Portal
 2. Node.js 16.11.0 or newer
 
@@ -32,7 +32,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-  "TOKEN": "MTE0ODI1OTM5Nzc4OTgxNDg5NA.G64hgF.JK2gNkIH-_29qm_n2Pk5pOCzBSy7mG-EUgWQm0",
+  "TOKEN": "MTE1NjY1MDQ1NTY4Njk5MTk1Ng.GsSGBZ.YBitmGxqVk-jZEBtJ_CwjHUdzsWGOp129gzzJg",
   "MAX_PLAYLIST_SIZE": 10,
   "PRUNING": false,
   "LOCALE": "en",
@@ -46,7 +46,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/evobot), you may provide values from `config.json` as environment variables.
 
 ```shell
-docker run -e "TOKEN=<MTE0ODI1OTM5Nzc4OTgxNDg5NA.Gz70bm.2dN9ufeuAKzh_8l6KmWM1m92XAtF1c6i_RJgZM>" eritislami/evobot
+docker run -e "TOKEN=<MTE1NjY1MDQ1NTY4Njk5MTk1Ng.GsSGBZ.YBitmGxqVk-jZEBtJ_CwjHUdzsWGOp129gzzJg>" eritislami/ninjabot
 ```
 
 ## 📝 Features & Commands
